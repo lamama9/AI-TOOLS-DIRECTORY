@@ -1,5 +1,4 @@
 export const toolsData = [
-    
     {
         "_id": {
             "$oid": "66b1fa668e00ede961e42e5c"
